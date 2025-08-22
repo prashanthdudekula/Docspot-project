@@ -99,4 +99,3 @@ The **Doctor Appointment App** is a modern solution for managing medical appoint
 
 ***
 
-Feel free to copy, edit, and update this template in your GitHub repository README!
